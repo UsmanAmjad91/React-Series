@@ -6,6 +6,7 @@ function Attributes(){
     return (
         <>
         <b>Attributes</b>
+        <h1 contentEditable="true"> Usman Amjad</h1>
        </>
     );
 }
