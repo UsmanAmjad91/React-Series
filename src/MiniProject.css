@@ -1,0 +1,28 @@
+*{margin: 0;padding: 0; box-sizing: border-box;}
+body{
+    background-color:aquamarine;
+}
+.greetings{
+    padding: 28px;
+    color:orangered;
+    position:absolute;
+    left:38%;
+    bottom: 50%;
+    justify-content: center;
+    background-color:beige;
+    border-radius: 35px;
+    border: 2px solid beige;
+    height:100px;
+    width: 400px;
+    font-family: 'Dancing Script', cursive;
+  }
+  
+  .greetings span{
+    color:black;
+
+  }
+  
+  .uc{
+  
+    /* position: relative; */
+  }

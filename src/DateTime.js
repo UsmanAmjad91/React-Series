@@ -3,7 +3,7 @@ import './App.css';
 
 const fname = "Usman";
 const lname ="Amjad";
-let newDate = new Date()
+let newDate = new Date();
 const date = newDate.getDate();
 const month = newDate.getMonth()+1;
 const year = newDate.getFullYear();

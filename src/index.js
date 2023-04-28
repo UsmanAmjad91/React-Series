@@ -15,8 +15,9 @@ import reportWebVitals from './reportWebVitals';
 import Literals from './Literals';
 import DateTime from './DateTime';
 import Attributes from './Attributes';
-
-
+import Style from './Style';
+import MiniProject from './MiniProject';
+import MiniProjectSolution from './MiniProjectSolution';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -27,7 +28,10 @@ root.render(
     {/* <Expressions/> */}
     {/* <Literals/> */}
     {/* <DateTime/> */}
-   <Attributes/>
+   {/* <Attributes/> */}
+   {/* <Style/> */}
+   {/* <MiniProject/> */}
+   <MiniProjectSolution/>
     </>
  
   // </React.StrictMode>
